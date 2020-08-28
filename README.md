@@ -8,3 +8,5 @@ c. Reading the low resolution image
 2. Cloaking technique (red color)
 
 3. PDF ImReader - PDF Image Reading using PIL
+
+4. PDF Imattacher - Attaching images to PDF
