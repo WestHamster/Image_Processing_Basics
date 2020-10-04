@@ -9,4 +9,4 @@ c. Reading the low resolution image
 
 3. PDF ImReader - PDF Image Reading using PIL
 
-4. PDF Imattacher - Attaching images to PDF
+4. PDF Imattacher - Attaching images to PDF (side_work.py)
